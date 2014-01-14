@@ -1,7 +1,7 @@
 package RGR_2;
 
 public class Main {
-	
+	//яЕпефю лнкндеж
 	//ме люяяхб ю я йюфдшл вкемнл нрдекэмн, ясллхпсел б лехм!
 	
 	//он сякнбхч днкфмн ашрэ public static double аег []!
@@ -18,6 +18,7 @@ public class Main {
 					}
 			}
 		}
+		System.out.println(LAngles[0]);
 		return LAngles;
 		
 	}
