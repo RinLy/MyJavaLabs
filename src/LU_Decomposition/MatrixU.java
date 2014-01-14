@@ -1,4 +1,4 @@
-package LU;
+package LU_Decomposition;
 
 import javax.swing.SwingUtilities;
 

@@ -1,4 +1,4 @@
-package LU;
+package LU_Decomposition;
 /*подключаем пакеты*/
 import java.awt.event.*; /*для обработчика событий*/
 import javax.swing.*; /*для графической оболочки*/
