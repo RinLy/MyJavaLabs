@@ -1,3 +1,5 @@
+
+
 package RGR_1;
 import java.util.*;
 public class R2 {
