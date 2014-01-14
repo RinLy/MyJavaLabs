@@ -1,8 +1,7 @@
 package RGR_2;
 
 public class Main {
-	//яЕпефю лнкндеж
-	//ме люяяхб ю я йюфдшл вкемнл нрдекэмн, ясллхпсел б лехм!
+
 	
 	//он сякнбхч днкфмн ашрэ public static double аег []!
 	public static double[] getSumSinuses(double[] angles, int type){
